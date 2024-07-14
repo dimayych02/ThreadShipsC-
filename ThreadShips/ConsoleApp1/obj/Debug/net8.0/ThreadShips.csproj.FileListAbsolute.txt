@@ -1,0 +1,14 @@
+D:\ThreadShips\ConsoleApp1\bin\Debug\net8.0\ThreadShips.exe
+D:\ThreadShips\ConsoleApp1\bin\Debug\net8.0\ThreadShips.deps.json
+D:\ThreadShips\ConsoleApp1\bin\Debug\net8.0\ThreadShips.runtimeconfig.json
+D:\ThreadShips\ConsoleApp1\bin\Debug\net8.0\ThreadShips.dll
+D:\ThreadShips\ConsoleApp1\bin\Debug\net8.0\ThreadShips.pdb
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.AssemblyInfoInputs.cache
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.AssemblyInfo.cs
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.csproj.CoreCompileInputs.cache
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.dll
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\refint\ThreadShips.dll
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.pdb
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ThreadShips.genruntimeconfig.cache
+D:\ThreadShips\ConsoleApp1\obj\Debug\net8.0\ref\ThreadShips.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThreadShips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|d:\\threadships\\consoleapp1\\ship\\dockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|solutionrelative:consoleapp1\\ship\\dockmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|d:\\threadships\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|d:\\threadships\\consoleapp1\\ship\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|solutionrelative:consoleapp1\\ship\\shipmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|d:\\threadships\\consoleapp1\\helpers\\randomhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59CB26-2DB6-4FF8-9C80-3F494B697899}|ConsoleApp1\\ThreadShips.csproj|solutionrelative:consoleapp1\\helpers\\randomhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DockModel.cs",
+              "DocumentMoniker": "D:\\ThreadShips\\ConsoleApp1\\Ship\\DockModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Ship\\DockModel.cs",
+              "ToolTip": "D:\\ThreadShips\\ConsoleApp1\\Ship\\DockModel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Ship\\DockModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:04:09.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomHelper.cs",
+              "DocumentMoniker": "D:\\ThreadShips\\ConsoleApp1\\Helpers\\RandomHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Helpers\\RandomHelper.cs",
+              "ToolTip": "D:\\ThreadShips\\ConsoleApp1\\Helpers\\RandomHelper.cs",
+              "RelativeToolTip": "ConsoleApp1\\Helpers\\RandomHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:48:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShipModel.cs",
+              "DocumentMoniker": "D:\\ThreadShips\\ConsoleApp1\\Ship\\ShipModel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Ship\\ShipModel.cs",
+              "ToolTip": "D:\\ThreadShips\\ConsoleApp1\\Ship\\ShipModel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Ship\\ShipModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:52:30.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThreadShips\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\ThreadShips\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:57:21.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
